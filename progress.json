@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T15:34:32.996Z",
+  "generated_at": "2026-09-29T15:41:27.996Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -351,6 +351,19 @@
       "last_pushed_at": "2026-09-29T15:34:32.179Z",
       "language": "sql",
       "lines": 6
+    },
+    "problem:1111": {
+      "kind": "problem",
+      "id": "1111",
+      "title": "Top-3 Salaries Per Department",
+      "difficulty": "medium",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1111",
+      "path": "problems/1111-top-3-salaries-per-department",
+      "first_solved_at": "2026-09-29T15:41:27.166Z",
+      "last_pushed_at": "2026-09-29T15:41:27.166Z",
+      "language": "sql",
+      "lines": 8
     }
   }
 }
