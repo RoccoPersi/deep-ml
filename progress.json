@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T14:41:14.068Z",
+  "generated_at": "2026-09-29T14:42:00.288Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -322,7 +322,7 @@
       "url": "https://www.deep-ml.com/problems/1112",
       "path": "problems/1112-delete-duplicate-emails-keeping-one",
       "first_solved_at": "2026-09-29T14:41:13.304Z",
-      "last_pushed_at": "2026-09-29T14:41:13.304Z",
+      "last_pushed_at": "2026-09-29T14:41:59.352Z",
       "language": "sql",
       "lines": 6
     }
