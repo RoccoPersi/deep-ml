@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**32** solved · 32 problems · 0 labs · 0 math
+**33** solved · 33 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -42,6 +42,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Nth-Highest Salary with Ties and NULL](https://www.deep-ml.com/problems/1110) | medium | 2026-09-29 | [solution](problems/1110-nth-highest-salary-with-ties-and-null) |
 | [Rank Rows Within Partitions Using Window Functions](https://www.deep-ml.com/problems/1114) | medium | 2026-09-29 | [solution](problems/1114-rank-rows-within-partitions-using-window-functions) |
 | [Running Total and Moving Average with Window Frames](https://www.deep-ml.com/problems/1116) | medium | 2026-09-30 | [solution](problems/1116-running-total-and-moving-average-with-window-frames) |
+| [Salary Difference Between Departments with Conditional Aggregation](https://www.deep-ml.com/problems/1124) | medium | 2026-09-30 | [solution](problems/1124-salary-difference-between-departments-with-conditional-aggregation) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-09-22 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 | [Top-3 Salaries Per Department](https://www.deep-ml.com/problems/1111) | medium | 2026-09-29 | [solution](problems/1111-top-3-salaries-per-department) |
 
