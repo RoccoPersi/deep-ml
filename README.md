@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**34** solved · 34 problems · 0 labs · 0 math
+**35** solved · 35 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -40,6 +40,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Employees Earning More Than Their Managers](https://www.deep-ml.com/problems/1113) | medium | 2026-09-29 | [solution](problems/1113-employees-earning-more-than-their-managers) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-09-21 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-09-18 | [solution](problems/0007-matrix-transformation) |
+| [Monthly Search Counts per Category with Join](https://www.deep-ml.com/problems/1241) | medium | 2026-09-30 | [solution](problems/1241-monthly-search-counts-per-category-with-join) |
 | [Nth-Highest Salary with Ties and NULL](https://www.deep-ml.com/problems/1110) | medium | 2026-09-29 | [solution](problems/1110-nth-highest-salary-with-ties-and-null) |
 | [Rank Rows Within Partitions Using Window Functions](https://www.deep-ml.com/problems/1114) | medium | 2026-09-29 | [solution](problems/1114-rank-rows-within-partitions-using-window-functions) |
 | [Running Total and Moving Average with Window Frames](https://www.deep-ml.com/problems/1116) | medium | 2026-09-30 | [solution](problems/1116-running-total-and-moving-average-with-window-frames) |

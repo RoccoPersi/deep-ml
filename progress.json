@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T09:16:41.368Z",
+  "generated_at": "2026-09-30T09:30:26.998Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -440,6 +440,19 @@
       "path": "problems/1126-employees-earning-above-their-department-average-correlated-subquery",
       "first_solved_at": "2026-09-30T09:16:40.224Z",
       "last_pushed_at": "2026-09-30T09:16:40.224Z",
+      "language": "sql",
+      "lines": 7
+    },
+    "problem:1241": {
+      "kind": "problem",
+      "id": "1241",
+      "title": "Monthly Search Counts per Category with Join",
+      "difficulty": "medium",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1241",
+      "path": "problems/1241-monthly-search-counts-per-category-with-join",
+      "first_solved_at": "2026-09-30T09:30:26.226Z",
+      "last_pushed_at": "2026-09-30T09:30:26.226Z",
       "language": "sql",
       "lines": 7
     }
