@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**33** solved · 33 problems · 0 labs · 0 math
+**34** solved · 34 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -36,6 +36,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Your first JOIN](https://www.deep-ml.com/problems/1109) | easy | 2026-09-29 | [solution](problems/1109-your-first-join) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-09-18 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Each Customer's Lowest-Priced Order](https://www.deep-ml.com/problems/1122) | medium | 2026-09-30 | [solution](problems/1122-each-customer-s-lowest-priced-order) |
+| [Employees Earning Above Their Department Average (Correlated Subquery)](https://www.deep-ml.com/problems/1126) | medium | 2026-09-30 | [solution](problems/1126-employees-earning-above-their-department-average-correlated-subquery) |
 | [Employees Earning More Than Their Managers](https://www.deep-ml.com/problems/1113) | medium | 2026-09-29 | [solution](problems/1113-employees-earning-more-than-their-managers) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-09-21 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-09-18 | [solution](problems/0007-matrix-transformation) |
